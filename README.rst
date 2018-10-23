@@ -11,3 +11,8 @@
 =====
 Moles
 =====
+
+Datasets for the Molecules_ library.
+
+
+.. _Molecules: https://github.com/yngtodd/molecules
